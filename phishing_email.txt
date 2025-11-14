@@ -1,0 +1,11 @@
+From: Мicrosoft Support <support@mіcrosoft.com>
+Subject: Urgent: Verify Your Account
+
+Dear User,
+
+We have detected unusual activity on your account. To avoid suspension, please verify your details immediately by clicking the link below:
+
+http://secure-mіcrosoft-confirm.com/verify
+
+Thank you,
+Microsoft Account Team

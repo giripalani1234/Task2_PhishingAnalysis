@@ -1,0 +1,15 @@
+Return-Path: <support@mіcrosoft.com>
+Received: from unknown (HELO mail.secure-mіcrosoft-confirm.com) (192.0.2.1)
+by mail.example.com with SMTP; Fri, 14 Nov 2025 12:30:00 +0000
+Received-SPF: fail (example: domain of mіcrosoft.com does not designate 192.0.2.1 as permitted sender)
+Authentication-Results: mail.example.com;
+ dkim=fail header.d=mіcrosoft.com;
+ dmarc=fail (p=reject dis=none) header.from=mіcrosoft.com
+From: Мicrosoft Support <support@mіcrosoft.com>
+To: user@example.com
+Subject: Urgent: Verify Your Account
+Date: Fri, 14 Nov 2025 11:59:00 +0530
+Message-ID: <unique-message-id@secure-mіcrosoft-confirm.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
